@@ -19,7 +19,7 @@ I'm a self taught developer who loves learning, building cool stuff and big book
   </a>
 </p>
 
-## 🛠️ Connect with me
+## 🔗 Connect with me
 
-🌐 katieclafferrty.com (https://www.katieclafferty.com)
+🌎 katieclafferrty.com (https://www.katieclafferty.com)
 📱 LinkedIn (https://www.linkedin.com/in/katie-clafferty-9860b114a/)
