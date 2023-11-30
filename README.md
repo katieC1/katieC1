@@ -1,12 +1,12 @@
 # Hi, I'm Katie 👋
 
-I'm a self taught developer who loves learning, building cool stuff and big books. I'm always interested in hearing about new projects - so feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/katie-clafferty-9860b114a/).
+I'm a self taught developer who loves learning, building cool stuff and big books. I'm always interested in hearing about new projects / ideas - so feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/katie-clafferty-9860b114a/).
 
 ## 🚀 My GitHub Streak & Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=katieC1&theme=dark&background=000000)
 
-## 🌟 Contributuin Graph
+## 🌟 Contribution Graph
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://activity-graph.herokuapp.com/graph?username=katieC1&amp;theme=react-dark">
